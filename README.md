@@ -1,2 +1,2 @@
 # tallysheet
-Tally sheet for stumpage price calculation app
+Tally sheet southern pines stand metrics app
